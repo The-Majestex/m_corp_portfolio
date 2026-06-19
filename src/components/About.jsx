@@ -10,7 +10,7 @@ export default function About() {
           About Me
         </h2>
 
-        <p className="mt-6 text-gray-300 leading-relaxed">
+        <p className="mt-6 text-gray-450 leading-relaxed">
           I am Majesty Ehizibolo.
           I build practical digital solutions that solve real-world
           problems.

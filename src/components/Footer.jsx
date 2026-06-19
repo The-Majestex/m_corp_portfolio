@@ -86,6 +86,8 @@ export default function Footer() {
                 </a>
               </li>
 
+              <li>~Call @+2348074775129</li>
+
             </ul>
           </div>
 
