@@ -17,7 +17,7 @@ const projects = [
     stack:
       "HTML • JavaScript • CSS • Python • PostgreSQL",
 
-    liveDemo: "...",
+    liveDemo: "https://themhub.netlify.app",
   },
 
   {
@@ -38,7 +38,7 @@ const projects = [
     stack:
       "HTML • JavaScript • CSS • Python • PostgreSQL",
 
-    liveDemo: "...",
+    liveDemo: "https://msortingalgorithmvisualizer.netlify.app",
   },  
  
   {
@@ -59,7 +59,7 @@ const projects = [
     stack:
       "HTML • JavaScript • CSS • Python • PostgreSQL",
 
-    liveDemo: "...",
+    liveDemo: "https://joannasbirthdayv2.netlify.app",
   },  
 ]
 
